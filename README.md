@@ -1,3 +1,4 @@
+I have used redux as a store management. If you add or edit user please don't refresh. Data will be deleted if page is refreshed. 
 
 I have developed a following features:
 
@@ -11,6 +12,9 @@ I have developed a following features:
  Can delete users
  User detial page
  Group detail page
+
+
+
 
 ## `npm install`
 
