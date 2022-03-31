@@ -1,0 +1,26 @@
+.entry {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.choice {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white !important;
+    border: 5px solid white;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: 50px;
+    background-color: #282c34;
+    justify-content: center;
+    align-content: center;
+}
+
+.choice h1{
+    margin: 0 auto;
+}
